@@ -1,4 +1,4 @@
-Um resumo da todas as operações feitas na linguagem java para garantir seu certificado, o curso foi em 76 horas, e nesses arquivos estão todos os resumos possíveis com comentários em cada codifidação para esclarecer as dúvidas.
+Um resumo de todas as operações cobradas na linguagem java para garantir seu certificado, o curso foi realizado 76 horas, e nesses arquivos estão todos os resumos possíveis com comentários em cada codifidação para esclarecer as dúvidas.
 
 O Java é uma das linguagens de programação mais populares e amplamente utilizadas no mundo, devido à sua versatilidade e robustez. Com a capacidade de ser executado em diversas plataformas e sua ampla aplicabilidade, desde desenvolvimento web até aplicativos móveis e IoT, o Java conquistou um espaço significativo no mercado de TI.
 
@@ -23,10 +23,11 @@ Lidar com exceções: Aprenda a tratar exceções em Java, desde a declaração 
 
 Preparação para o exame: Explore os tópicos específicos exigidos no exame da certificação Java OCA, como as novidades introduzidas no Java 8, lambdas, a API java.time, wrappers e autoboxing.
 
-Agradecimentos;
+*Agradecimentos;
 Alura escola de tecnologia;
 Instrutores:
 Guilherme Silveira;
 Mario Amaral.
 
-Obrigado!
+Obrigado;
+"Todo amor, todo poder" (Wim Hof).
